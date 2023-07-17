@@ -34,6 +34,7 @@ In caso di doppioni organizza una sessione di scambio
             - passo alla prossima
         - **ALTRIMENTI**
             - la scambio con una del mio mazzo di scambio
-- **ALTRIMENTI** Attendo sabato
+- **ALTRIMENTI** 
+<!-- qua è da implementare la logica di come decidere la  casistica se non è sabato e se non ho un mazzo di scambio -->
 - Fine.
 
