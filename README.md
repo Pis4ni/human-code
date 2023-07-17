@@ -34,5 +34,6 @@ In caso di doppioni organizza una sessione di scambio
             - passo alla prossima
         - **ALTRIMENTI**
             - la scambio con una del mio mazzo di scambio
+- **ALTRIMENTI** Attendo sabato
 - Fine.
 
