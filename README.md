@@ -9,6 +9,11 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
 
 Aprire un pacchetto di figurine, attaccando quelle mancanti ed evitando i doppioni che verranno messi in un mazzo di scambio.
 
+**BONUS**
+
+In caso di doppioni organizza una sessione di scambio
+
+
 ## ISTRUZIONI
 - Prendo il pacchetto di figurine 
 - Prendo l' album delle figurine
@@ -20,4 +25,14 @@ Aprire un pacchetto di figurine, attaccando quelle mancanti ed evitando i doppio
         - La dispongo nel mazzo di scambio
     - **ALTRIMENTI**
         - La incollo nell' album
+- ***Bonus***
+- **SE** è sabato **ED** il mazzo di scambio **NON** è vuoto.
+    - Approccio il mio amico
+    - prendo in considerazione il mazzo del mio amico
+    - **PER OGNI** figurina del mazzo di scambio del mio amico
+        - **SE** è presente nel mio album
+            - passo alla prossima
+        - **ALTRIMENTI**
+            - la scambio con una del mio mazzo di scambio
 - Fine.
+
